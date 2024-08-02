@@ -1,4 +1,4 @@
 # gitCommitTest
 
 
-1. first commit in main
+2. second commit in main
